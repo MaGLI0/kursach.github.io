@@ -2,22 +2,34 @@
 let DIRpopup = document.querySelector('.dirpopup');
 let popupib = document.querySelector('.popupib');
 let openPopupButtons = document.querySelectorAll ('.cloud2');
+let openPopupButtonstxt = document.querySelectorAll ('.ibcl');
 let closePopupButton = document.querySelector('.exit');
 let popupisit = document.querySelector('.popupisit');
 let openPopupButtons1 = document.querySelectorAll ('.cloud3');
+let openPopupButtons1txt = document.querySelectorAll ('.isitcl');
 let closePopupButton1 = document.querySelector('.exit1');
 let popupisip = document.querySelector('.popupisip');
 let openPopupButtons2 = document.querySelectorAll ('.cloud4');
+let openPopupButtons2txt = document.querySelectorAll ('.isipcl');
 let closePopupButton2 = document.querySelector('.exit2');
 let popuppive = document.querySelector('.popuppive');
 let openPopupButtons3 = document.querySelectorAll ('.cloud5');
+let openPopupButtons3txt = document.querySelectorAll ('.pivcl');
 let closePopupButton3 = document.querySelector('.exit3');
 let popuppi = document.querySelector('.popuppi');
 let openPopupButtons4 = document.querySelectorAll ('.cloud6');
+let openPopupButtons4txt = document.querySelectorAll ('.picl');
 let closePopupButton4 = document.querySelector('.exit4');
 
 
 openPopupButtons.forEach((button) => {
+    button.addEventListener('click', (e) => {
+        e.preventDefault();
+        DIRpopup.classList.add('active');
+        popupib.classList.add('active');
+    })
+});
+openPopupButtonstxt.forEach((button) => {
     button.addEventListener('click', (e) => {
         e.preventDefault();
         DIRpopup.classList.add('active');
@@ -42,12 +54,27 @@ openPopupButtons1.forEach((button) => {
         popupisit.classList.add('active');
     })
 });
+
+openPopupButtons1txt.forEach((button) => {
+    button.addEventListener('click', (e) => {
+        e.preventDefault();
+        DIRpopup.classList.add('active');
+        popupisit.classList.add('active');
+    })
+});
 closePopupButton1.addEventListener('click', () => {
     DIRpopup.classList.remove('active');
     popupisit.classList.remove('active');
 
 })
 openPopupButtons2.forEach((button) => {
+    button.addEventListener('click', (e) => {
+        e.preventDefault();
+        DIRpopup.classList.add('active');
+        popupisip.classList.add('active');
+    })
+});
+openPopupButtons2txt.forEach((button) => {
     button.addEventListener('click', (e) => {
         e.preventDefault();
         DIRpopup.classList.add('active');
@@ -67,12 +94,26 @@ openPopupButtons3.forEach((button) => {
         popuppive.classList.add('active');
     })
 });
+openPopupButtons3txt.forEach((button) => {
+    button.addEventListener('click', (e) => {
+        e.preventDefault();
+        DIRpopup.classList.add('active');
+        popuppive.classList.add('active');
+    })
+});
 closePopupButton3.addEventListener('click', () => {
     DIRpopup.classList.remove('active');
     popuppive.classList.remove('active');
 
 })
 openPopupButtons4.forEach((button) => {
+    button.addEventListener('click', (e) => {
+        e.preventDefault();
+        DIRpopup.classList.add('active');
+        popuppi.classList.add('active');
+    })
+});
+openPopupButtons4txt.forEach((button) => {
     button.addEventListener('click', (e) => {
         e.preventDefault();
         DIRpopup.classList.add('active');
