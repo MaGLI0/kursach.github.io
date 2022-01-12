@@ -202,6 +202,22 @@ body{
     color: #000000;
 
 }
+.srib {
+    position: absolute;
+    left: 53.43%;
+    right: 2.43%;
+    top: 40.85%;
+    bottom: 8.35%;
+    display: inline-block;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 26px;
+    color: #000000;
+    list-style-type: none;
+
+}
 
 .ib1 {
     position: absolute;
@@ -279,6 +295,84 @@ body{
     line-height: 26px;
     color: #000000;
     
+}
+
+.srib1 {
+    position: absolute;
+    left: 13.43%;
+    right: 2.43%;
+    top: 13.85%;
+    bottom: 8.35%;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 26px;
+    color: #000000;
+    
+
+}
+.srib2 {
+    position: absolute;
+    left: 13.43%;
+    right: 8.43%;
+    top: 27.85%;
+    bottom: 8.35%;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 26px;
+    color: #000000;
+    
+
+}
+
+.srib3 {
+    position: absolute;
+    left: 13.43%;
+    right: 14.43%;
+    top: 42.85%;
+    bottom: 8.35%;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 26px;
+    color: #000000;
+    
+
+}
+
+.srib4 {
+    position: absolute;
+    left: 13.43%;
+    right: 20.43%;
+    top: 56.85%;
+    bottom: 8.35%;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 26px;
+    color: #000000;
+    
+
+}
+
+.srib5 {
+    position: absolute;
+    left: 13.43%;
+    right: 26.43%;
+    top: 70.85%;
+    bottom: 8.35%;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 26px;
+    color: #000000;
+    
 
 }
 .exit {
@@ -311,7 +405,7 @@ body{
 
 .isit {
     position: absolute;
-    left: 4.35%;
+    left: 3.35%;
     right: 15.35%;
     top: -0.64%;
     bottom: 87.24%;
@@ -357,6 +451,22 @@ body{
     color: #000000;
 
 }
+
+.srisit {
+    position: absolute;
+    left: 53.43%;
+    right: 2.43%;
+    top: 51.85%;
+    bottom: 8.35%;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 26px;
+    color: #000000;
+    list-style-type: none;
+}
+
 .isit1 {
     position: absolute;
     left: 2.43%;
@@ -407,6 +517,69 @@ body{
 .isit4 {
     position: absolute;
     left: 2.43%;
+    right: 2.43%;
+    top: 80.85%;
+    bottom: 8.35%;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 26px;
+    color: #000000;
+    
+
+}
+
+.srisit1 {
+    position: absolute;
+    left: 13.43%;
+    right: 2.43%;
+    top: 20.85%;
+    bottom: 8.35%;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 26px;
+    color: #000000;
+    
+
+}
+.srisit2 {
+    position: absolute;
+    left: 13.43%;
+    right: 2.43%;
+    top: 40.85%;
+    bottom: 8.35%;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 26px;
+    color: #000000;
+    
+
+}
+
+.srisit3 {
+    position: absolute;
+    left: 13.43%;
+    right: 2.43%;
+    top: 60.85%;
+    bottom: 8.35%;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 26px;
+    color: #000000;
+    
+
+}
+
+.srisit4 {
+    position: absolute;
+    left: 13.43%;
     right: 2.43%;
     top: 80.85%;
     bottom: 8.35%;
@@ -498,6 +671,22 @@ body{
 
 }
 
+.srpive {
+    position: absolute;
+    left: 59.43%;
+    right: 2.43%;
+    top: 46.85%;
+    bottom: 8.35%;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 26px;
+    color: #000000;
+    list-style-type: none;
+
+}
+
 .pive1 {
     position: absolute;
     left: 2.43%;
@@ -566,6 +755,85 @@ body{
     left: 2.43%;
     right: 2.43%;
     top: 80.85%;
+    bottom: 8.35%;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 26px;
+    color: #000000;
+    
+
+}
+
+.srpive1 {
+    position: absolute;
+    left: 15.43%;
+    right: 2.43%;
+    top: 15.85%;
+    bottom: 8.35%;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 26px;
+    color: #000000;
+    
+
+}
+.srpive2 {
+    position: absolute;
+    left: 15.43%;
+    right: 2.43%;
+    top: 31.85%;
+    bottom: 8.35%;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 26px;
+    color: #000000;
+    
+
+}
+
+.srpive3 {
+    position: absolute;
+    left: 15.43%;
+    right: 2.43%;
+    top: 48.85%;
+    bottom: 8.35%;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 26px;
+    color: #000000;
+    
+
+}
+
+.srpive4 {
+    position: absolute;
+    left: 15.43%;
+    right: 2.43%;
+    top: 65.85%;
+    bottom: 8.35%;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 26px;
+    color: #000000;
+    
+
+}
+
+.srpive5 {
+    position: absolute;
+    left: 15.43%;
+    right: 2.43%;
+    top: 83.85%;
     bottom: 8.35%;
     font-family: 'Roboto Slab';
     font-style: normal;
@@ -655,6 +923,21 @@ body{
 
 }
 
+.srpi {
+    position: absolute;
+    left: 56.43%;
+    right: 2.43%;
+    top: 40.85%;
+    bottom: 8.35%;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 26px;
+    color: #000000;
+    list-style-type: none;
+
+}
 .pi1 {
     position: absolute;
     left: 2.43%;
@@ -707,6 +990,69 @@ body{
     left: 2.43%;
     right: 2.43%;
     top: 68.85%;
+    bottom: 8.35%;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 26px;
+    color: #000000;
+    
+
+}
+
+.srpi1 {
+    position: absolute;
+    left: 14.43%;
+    right: 2.43%;
+    top: 13.85%;
+    bottom: 8.35%;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 26px;
+    color: #000000;
+    
+
+}
+.srpi2 {
+    position: absolute;
+    left: 14.43%;
+    right: 2.43%;
+    top: 27.85%;
+    bottom: 8.35%;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 26px;
+    color: #000000;
+    
+
+}
+
+.srpi3 {
+    position: absolute;
+    left: 14.43%;
+    right: 2.43%;
+    top: 41.85%;
+    bottom: 8.35%;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 26px;
+    color: #000000;
+    
+
+}
+
+.srpi4 {
+    position: absolute;
+    left: 14.43%;
+    right: 2.43%;
+    top: 55.85%;
     bottom: 8.35%;
     font-family: 'Roboto Slab';
     font-style: normal;
@@ -814,6 +1160,22 @@ body{
     color: #000000;
 
 }
+
+.srisip {
+    position: absolute;
+    left: 58.43%;
+    right: 2.43%;
+    top: 62.85%;
+    bottom: 8.35%;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 26px;
+    color: #000000;
+    list-style-type: none;
+
+}
 .isip1 {
     position: absolute;
     left: 2.43%;
@@ -850,6 +1212,53 @@ body{
     left: 2.43%;
     right: 2.43%;
     top: 85.85%;
+    bottom: 8.35%;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 26px;
+    color: #000000;
+    
+
+}
+
+.srisip1 {
+    position: absolute;
+    left: 33.43%;
+    right: 2.43%;
+    top: 33.85%;
+    bottom: 8.35%;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 26px;
+    color: #000000;
+    
+
+}
+.srisip2 {
+    position: absolute;
+    left: 33.43%;
+    right: 2.43%;
+    top: 64.85%;
+    bottom: 8.35%;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 26px;
+    color: #000000;
+    
+
+}
+
+.srisip3 {
+    position: absolute;
+    left: 33.43%;
+    right: 2.43%;
+    top: 93.85%;
     bottom: 8.35%;
     font-family: 'Roboto Slab';
     font-style: normal;
@@ -948,6 +1357,7 @@ h1{
     font-size: 23.9206px;
     line-height: 32px;
     transition: 0.5s;
+    cursor: pointer;
 }
 
 .ibcl:hover {
@@ -962,7 +1372,7 @@ h1{
     right: 28.57%;
     top: 41.11%;
     bottom: 54.15%;
-
+    cursor: pointer;
     font-family: 'Roboto';
     font-style: normal;
     font-weight: bold;
@@ -983,7 +1393,7 @@ h1{
     right: 32.04%;
     top: 73.8%;
     bottom: 19.09%;
-
+    cursor: pointer;
     font-family: 'Roboto';
     font-style: normal;
     font-weight: bold;
@@ -1003,7 +1413,7 @@ h1{
     right: 60.33%;
     top: 72.6%;
     bottom: 18.1%;
-
+    cursor: pointer;
     font-family: 'Roboto';
     font-style: normal;
     font-weight: bold;
@@ -1020,7 +1430,7 @@ h1{
 .picl {
     color: #fff;
     position: absolute;
-   
+    cursor: pointer;
     left: 31.1%;
     top: 37%;
     font-family: 'Roboto';
@@ -1429,12 +1839,3 @@ h1{
     color:#aaa;
     margin-bottom:0;
   }
-
-
-
-
-
-
-
-    
-
